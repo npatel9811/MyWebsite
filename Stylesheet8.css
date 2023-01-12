@@ -1,0 +1,364 @@
+.divmain_top_bar{
+	width: 100%;
+	height: auto;
+	color: blue;
+	background: black;
+	float: left;
+}
+
+.divmain_top_bar_left{
+	width: 20%;
+	height: auto;
+	color: blue;
+	background: black;
+	float: left; 
+}
+ 
+.divmain_top_bar_right{
+	width: 80%;
+	height: auto;
+	color: blue;
+	background: black;
+	float: left;
+	text-align: center;
+}
+
+.divmainbox{
+	width: 100%;
+	height: auto;
+	color: blue;
+	float: left;
+	background: black;
+}
+
+.divmainbox_left{
+	width: 20%;
+	height: auto;
+	color: white;
+	float: left;
+	background: black;
+}
+
+.divmainbox_right{
+	width: 80%;
+	height: auto;
+	color: yellow;
+	float: left;
+	background: black;
+}
+
+.divmain_footer{
+	width: 100%;
+	height: auto;
+	color: blue;
+	background: black;
+	float: left;
+	
+}
+
+.divmain_footer_left{
+	width: 20%;
+	height: auto;
+	color: blue;
+	background: black;
+	float: left;
+}
+
+.divmain_footer_right{
+	width: 80%;
+	height: auto;
+	color: blue;
+	background: black;
+	float: left;
+}
+
+
+.button {
+		width:125px;
+		display:inline-block;
+		border:2px solid black;
+		padding:2px 10px 2px 10px;
+		text-decoration:none;
+		background-color:yellow;
+		color:red;
+		font-family:Tahoma;
+		text-align:center;
+		font-weight:bold;		
+}
+
+.selected_page_button{
+		width:125px;
+		display:inline-block;
+		border:2px solid black;
+		padding:2px 10px 2px 10px;
+		text-decoration:none;
+		background-color:lime;
+		color:red;
+		font-family:Tahoma;
+		text-align:center;
+		font-weight:bold;
+}
+
+.button:hover{
+		color:red;
+		background-color:blue;
+}
+
+.opening_times{
+	float: right;
+	margin-left:10px;
+	margin-right:60px;
+}
+
+.super_saturday_special{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+}
+
+.super_saturday_detail{
+	padding: 10px;
+}
+
+.super_saturday_special_detail_section{
+	padding: 10px;
+}
+
+.normal_text{
+	color:lime;
+	margin-left:20px;
+}
+
+.daily_special_detail{
+	margin-left:10px;	
+	
+}
+
+.daily_special_detail_section{
+	padding: 10px;
+}
+
+.contact_details{
+	color:lime;
+	float: right;
+	font-family:Tahoma;
+	
+}
+
+.contact_heading{
+	color: yellow;
+	text-align: center;
+	font-size: 30px;
+	font-family:Tahoma;
+	
+}
+
+.starters_detail_heading{
+	color: yellow;
+	text-align: right;
+	margin-left: 10px;
+	padding: 10px;
+	
+}
+
+.starters_detail_section{
+	color: lime;
+	text-align: left;
+	width: 60%;
+	
+}
+
+.spice_hut_details{
+	text-align: center;
+	font-size: 25px;
+    border-style: solid;
+    border-color: lime;	
+	border-width:2px;
+	width: 80%;
+	margin-left: 10px;
+	font-family:Tahoma;
+	
+}
+
+.opening_times_navbar{
+	width: 80%;
+	margin-left: 10px;
+}
+
+.query_label{
+	vertical-align: top;
+}
+
+.lunch_time_buffet{
+	text-align: left;
+    border-style: solid;
+    border-color: black;	
+	border-width:2px;
+	width: 80%;
+	margin-left: 30px;	
+}
+
+.lunch_time_buffet_heading{
+	color: yellow;
+	text-align: center;
+}
+
+
+.lunch_time_buffet{
+    border-style: solid;
+    border-color: black;	
+	border-width:2px;
+	width: 80%;
+	margin-left: 30px;		
+}
+
+.student_special_discount_heading{
+	color: yellow;
+	text-align: center;
+	padding:10px
+}
+
+
+.student_special_discount{
+	border-style: solid;
+    border-color: black;	
+	border-width:2px;
+	width: 80%;
+	margin-left: 30px;
+	
+}
+
+.home_page_heading{
+	padding:20px;
+	position: relative;
+	bottom: 20px;
+}
+
+.vegetarian_page_heading{
+	padding:20px;
+	position: relative;
+	bottom: 110px;
+}
+
+.non_vegetarian_page_heading{
+	padding:20px;
+	position: relative;
+	bottom: 180px;
+}
+
+.introduction_paragraph{
+	margin-left:10px;
+	font-weight: normal;
+	color: lime;
+	text-align: left;	
+	font-family:Tahoma;
+	position: relative;
+	bottom: 70px;
+	padding: 10px;
+	
+}
+
+.deal_of_week_table_vegetarian{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+	position: relative;
+	bottom: 160px;
+}
+
+.deal_of_week_table_non_vegetarian{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+	position: relative;
+	bottom: 230px;
+	border-spacing: 10px;
+	
+}
+
+.img_map{
+	float: left;
+	margin-left:10px;
+	text-align: left;
+	font-weight: bold;
+	color:yellow;
+	width:65%;
+}
+
+.chicken_curry_page_heading{
+	padding:20px;
+	position: relative;
+	bottom: 110px;
+}
+
+
+.deal_of_week_table_chicken_curry{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+	position: relative;
+	bottom: 160px;
+	border-spacing: 10px;
+}
+
+.vegetarian_dish_page_heading{
+	padding:20px;
+	position: relative;
+	bottom: 220px;
+}
+
+.deal_of_week_table_vegetarian_dish{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+	position: relative;
+	bottom: 270px;
+	border-spacing: 10px;
+}
+
+
+.biryani_page_heading{
+	padding:20px;
+	position: relative;
+	bottom: 300px;
+}
+
+.deal_of_week_table_biryani{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+	position: relative;
+	bottom: 350px;
+	border-spacing: 10px
+}
+
+.left {
+    position: relative;
+    right: 0px;
+    width: 400px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.deal_of_week_table_dessert{
+	border: 0;
+	text-align: left;
+	margin-left:10px;
+	font-family:Tahoma;
+	color:yellow;
+	position: relative;
+	bottom: 100px;
+	border-spacing: 10px
+}
